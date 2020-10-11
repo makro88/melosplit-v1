@@ -26,4 +26,5 @@ I lost count of how many times I've re-done the wiring in pcbnew, tried to keep 
 ![Image 1](https://github.com/makro88/melosplit-v1/blob/PCB/Images/schematics.png)
 
 ### Future plans:
+- Make it work
 - Case design
