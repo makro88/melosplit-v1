@@ -1,0 +1,49 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Battery
+D Multiple-cell battery
+K batt voltage-source cell
+F ~
+$ENDCMP
+#
+$CMP D
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP GND
+D Power symbol creates a global label with name "GND" , ground
+K power-flag
+$ENDCMP
+#
+$CMP Jumper_2_Open
+D Jumper, 2-pole, open
+K Jumper SPST
+F ~
+$ENDCMP
+#
+$CMP MJ-4PP-9
+D 4-pin (audio) jack receptable (stereo + 4th pin/TRRS connector), compatible with PJ320A
+K audio jack receptable stereo headphones TRRS connector
+F ~
+$ENDCMP
+#
+$CMP PWR_FLAG
+D Special symbol for telling ERC where power comes from
+K power-flag
+F ~
+$ENDCMP
+#
+$CMP Rotary_Encoder_Switch
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+$CMP VCC
+D Power symbol creates a global label with name "VCC"
+K power-flag
+$ENDCMP
+#
+#End Doc Library
