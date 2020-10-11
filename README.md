@@ -27,4 +27,5 @@ I lost count of how many times I've re-done the wiring in pcbnew, tried to keep 
 
 ### Future plans:
 - Make it work
+- Cleaning up and adding some silks and text
 - Case design
