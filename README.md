@@ -1,3 +1,5 @@
+# MeloSplit-v1
+
 My first attempt at designing a custom keyboard, started as a challenge and as a potential new hobby.
 
 Once I'm sure-ish this will actually work, I'm planning to build it as full wireless keyboard (thanks to [nice!nano](https://docs.nicekeyboards.com/#/nice!nano/))
